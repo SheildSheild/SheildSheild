@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student graduati
 ### 🔭 **What I'm Currently Working On**
 - Furthing my algorithmic thinking with LeetCode.
 - Getting into game development in order to solidify my design principles.
-- Exploring **REST API** frameworks, specifically **Node js**.
+- A web app that can search for YouTube videos via video length.
 
 ---
 
-![Octocat](./octocat-1733903848257.png)
+![Octocat](./yaes.png)
 
 ### 🛠️ **Tech Stack**
 

@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student graduati
 
 ---
 
+![Octocat](./octocat-1733903848257.png)
 
 ### 🛠️ **Tech Stack**
 

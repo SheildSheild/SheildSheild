@@ -53,7 +53,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student graduati
 ### 📫 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/keeansmith/](https://www.linkedin.com/in/keeansmith827/))
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SheildSheild)
 
 ---
 
